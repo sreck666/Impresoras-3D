@@ -1,4 +1,4 @@
-# Impresoras 3D diseño
+# Impresoras 3D 
 
 
 - Archivos de Configuracion MARLIN
